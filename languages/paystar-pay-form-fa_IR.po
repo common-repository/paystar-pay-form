@@ -1,0 +1,90 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PayStar WordPress Payment Form\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-10-30 05:32+0330\n"
+"PO-Revision-Date: 2021-10-30 05:33+0330\n"
+"Last-Translator: Seyed Hamzeh Fazeli <seyed.hamzeh.fazeli@gmail.com>\n"
+"Language-Team: ModuleBank <support@modulebank.ir>\n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/form.php:6
+msgid "Your name"
+msgstr "نام شما"
+
+#: includes/form.php:14
+msgid "Your email"
+msgstr "پست‌الکترونیک شما"
+
+#: includes/form.php:22
+msgid "Your mobile"
+msgstr "موبایل شما"
+
+#: includes/form.php:30
+msgid "Price"
+msgstr "مبلغ"
+
+#: includes/form.php:34
+msgid "Rial"
+msgstr "ریال"
+
+#: includes/form.php:39
+msgid "Description Payment"
+msgstr "توضیحات پرداخت"
+
+#: includes/form.php:48 paystar.php:74
+msgid "Pay"
+msgstr "پرداخت"
+
+#: paystar.php:15
+msgid "paystar-pay-form"
+msgstr "فرم پرداخت درگاه پی استار برای وردپرس"
+
+#: paystar.php:16
+msgid "paystar-pay-form-desc"
+msgstr "فرم پرداخت درگاه پی استار برای وردپرس"
+
+#: paystar.php:24
+msgid "PayStar Payment Gateway"
+msgstr "درگاه پرداخت پی استار"
+
+#: paystar.php:25 setting.php:2
+msgid "PayStar Setting"
+msgstr "تنظیمات درگاه پی استار"
+
+#: paystar.php:36
+msgid "You do not have sufficient permissions to access this page."
+msgstr "شما مجوز کافی برای مشاهده این برگه را ندارید."
+
+#: paystar.php:84
+msgid "Error! Please Complate all field."
+msgstr "خطا! لطفا تمامی فیلدها را کامل کنید."
+
+#: paystar.php:106
+#, php-format
+msgid "Transaction was successful. Your Tracking Number: %s"
+msgstr "تراکنش با موفقیت انجام شد .  شماره پیگیری: %s"
+
+#: setting.php:8
+msgid "PayStar Payment Gateway Setting"
+msgstr "تنظیمات درگاه پی استار"
+
+#: setting.php:10
+msgid "Terminal Number"
+msgstr "شناسه درگاه"
+
+#: setting.php:13
+msgid "Please Enter Your PayStar Terminal"
+msgstr "لطفا شناسه درگاه خود را وارد کنید"
+
+#: setting.php:16
+msgid "Update"
+msgstr "بروز رسانی"
